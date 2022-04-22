@@ -1,0 +1,48 @@
+body{
+    background-color: #C3D2C8;
+}
+
+#Header{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border:solid 5px rgb(11, 6, 6);
+    background-color: #CCC4B8;
+    text-align: center;
+}
+
+#Header h2{
+    font-size: 50px;
+    font-family: "system-ui";
+    color: black;
+}
+
+#Account{
+    font-family: serife;
+    border: 3px solid #EF476F;
+    padding:5px 20px 15px;
+    font-size: 115%;
+}
+
+#PersonalInformation{
+    font-family: serife;
+    border: 3px solid #1F89AC;
+    padding: 5px 20px 15px;
+    font-size: 115%;
+}
+
+#Availability{
+    font-family: serife;
+    border: 3px solid #06D6A0;
+    padding: 5px 20px 15px;
+    font-size: 115%;
+}
+
+#PersonalStatement{
+    font-family: serife;
+    border: 3px solid #FFD166;
+    padding: 5px 20px 15px;
+    font-size: 115%;
+}
